@@ -40,10 +40,10 @@ I love transforming **raw data → insights → smart applications**.
 <div align="center">
 
 [![Brain Tumor Classification](https://github-readme-stats.vercel.app/api/pin/?username=adipradi&repo=Brain-Tumor-Classification-with-CNN&theme=radical&hide_border=true)](https://github.com/adipradi/Brain-Tumor-Classification-with-CNN)
-[![Sales Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=adipradi&repo=sales-chatbot&theme=radical&hide_border=true)](https://github.com/adipradi/chatoracle)
+[![Sales Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=adipradi&repo=chatoracle&theme=radical&hide_border=true)](https://github.com/adipradi/chatoracle)
 
 [![Smart Visual QC](https://github-readme-stats.vercel.app/api/pin/?username=adipradi&repo=Smart-Visual-QC&theme=radical&hide_border=true)](https://github.com/adipradi/Smart-Visual-QC)
-[![Digital Ads Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=adipradi&repo=digital-ads-dashboard&theme=radical&hide_border=true)](https://github.com/adipradi/digital-ads-dashboard)
+[![Image Processing](https://github-readme-stats.vercel.app/api/pin/?username=adipradi&repo=Image-Preprocessing&theme=radical&hide_border=true)](https://github.com/adipradi/Image-Processing)
 
 </div>
 
