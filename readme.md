@@ -43,7 +43,7 @@ I love transforming **raw data → insights → smart applications**.
 [![Sales Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=adipradi&repo=chatoracle&theme=radical&hide_border=true)](https://github.com/adipradi/chatoracle)
 
 [![Smart Visual QC](https://github-readme-stats.vercel.app/api/pin/?username=adipradi&repo=Smart-Visual-QC&theme=radical&hide_border=true)](https://github.com/adipradi/Smart-Visual-QC)
-[![Image Processing](https://github-readme-stats.vercel.app/api/pin/?username=adipradi&repo=Image-Preprocessing&theme=radical&hide_border=true)](https://github.com/adipradi/Image-Processing)
+[![Image Processing](https://github-readme-stats.vercel.app/api/pin/?username=adipradi&repo=Image-Processing&theme=radical&hide_border=true)](https://github.com/adipradi/Image-Processing)
 
 </div>
 
