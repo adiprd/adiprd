@@ -1,132 +1,271 @@
+# Hi 👋, I'm Adip
+
 <!-- BANNER / HERO IMAGE -->
-<img src="https://i.ibb.co/vjR2Nmb/banner-github.gif" alt="Adip Banner" width="100%"/>
+<div align="center">
+  <img src="https://i.ibb.co/vjR2Nmb/banner-github.gif" alt="Adip Banner" width="100%"/>
+</div>
 
-# Hi 👋, I'm Adip  
+### 🚀 AI & Data Science Developer | Transforming Data into Intelligence
 
-### 🚀 Developer | AI & Data Enthusiast | Student  
+<div align="center">
+
+![Focus](https://badgen.net/badge/Focus/AI%20%26%20Data%20Science/purple)
+![Learning](https://badgen.net/badge/Learning/GenAI%20%26%20Cloud/blue)
+![Contributions](https://badgen.net/badge/Contributions/Open%20Source/green?icon=github)
+![Status](https://badgen.net/badge/Status/Available%20for%20Collaboration/brightgreen)
+![Jupyter](https://badgen.net/badge/Notebooks/100%2B%20Projects/orange?icon=jupyter)
+
+</div>
+
 Passionate about **AI, Data Analytics, and Data Science** ✨  
-I love transforming **raw data → insights → smart applications**.  
+I love transforming **raw data → insights → smart applications**.
 
 ---
 
-## 👨‍💻 About Me  
-- 🔭 Currently working on: **AI-powered dashboards & RAG chatbots**  
-- 🌱 Currently learning: **LangChain, Generative AI, Cloud Deployment (Docker, AWS basics)**  
-- 👯 Looking to collaborate on: **AI/ML, Data Engineering, Fullstack projects**  
-- 💬 Ask me about: **Python, SQL, Data Visualization, Machine Learning**  
-- 📫 How to reach me: **adiptriya@gmail.com**  
-- ⚡ Fun fact: I can spend hours debugging just to see one line of code run perfectly 😅  
+## 👨‍💻 About Me
+
+- 🔭 **Currently working on:** AI-powered dashboards & RAG chatbots
+- 🌱 **Currently learning:** LangChain, Generative AI, Cloud Deployment (Docker, AWS)
+- 🎯 **This month I'm diving into:** Advanced prompt engineering & vector databases
+- 👯 **Looking to collaborate on:** AI/ML, Data Engineering, Fullstack projects
+- 💬 **Ask me about:** Python, SQL, Data Visualization, Machine Learning
+- 📫 **Reach me:** adiptriya@gmail.com
+- ⚡ **Fun fact:** I can spend hours debugging just to see one line of code run perfectly 😅
+- 📓 **Portfolio:** 100+ Jupyter notebooks covering ML, Computer Vision, Time Series & more!
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 Featured Projects
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+<div align="center">
 
-**AI / ML:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
+[![Brain Tumor Classification](https://github-readme-stats.vercel.app/api/pin/?username=adipradi&repo=Brain-Tumor-Classification-with-CNN&theme=radical&hide_border=true)](https://github.com/adipradi/Brain-Tumor-Classification-with-CNN)
+[![Sales Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=adipradi&repo=sales-chatbot&theme=radical&hide_border=true)](https://github.com/adipradi/chatoracle)
 
-**Frameworks & Tools:**  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Superset](https://img.shields.io/badge/Apache%20Superset-1EB4D4?style=for-the-badge&logo=apache&logoColor=white)  
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)  
+[![Smart Visual QC](https://github-readme-stats.vercel.app/api/pin/?username=adipradi&repo=Smart-Visual-QC&theme=radical&hide_border=true)](https://github.com/adipradi/Smart-Visual-QC)
+[![Digital Ads Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=adipradi&repo=digital-ads-dashboard&theme=radical&hide_border=true)](https://github.com/adipradi/digital-ads-dashboard)
 
-**Visualization:**  
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)  
-![ChartJS](https://img.shields.io/badge/ChartJS-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white)  
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
+</div>
 
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+## 📊 Data Science & ML Portfolio
 
-**Other Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)  
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
+### 🧠 Computer Vision & Image Processing
+[![Face Mask Detection](https://img.shields.io/badge/Face%20Mask%20Detection-CNN-blue?style=flat-square&logo=tensorflow)](https://github.com/adipradi/Face-Mask-Detection) 
+[![Plant Classification](https://img.shields.io/badge/Plant%20Classification-Deep%20Learning-green?style=flat-square&logo=keras)](https://github.com/adipradi/klasifikasi-tanaman)
+[![Shape Detection](https://img.shields.io/badge/Shape%20Detection-OpenCV-red?style=flat-square&logo=opencv)](https://github.com/adipradi/Shape-Detection)
+[![Image Processing](https://img.shields.io/badge/Image%20Processing-Computer%20Vision-purple?style=flat-square&logo=python)](https://github.com/adipradi/Image-Processing)
+[![Smart Visual QC](https://img.shields.io/badge/Smart%20Visual%20QC-Quality%20Control-orange?style=flat-square&logo=tensorflow)](https://github.com/adipradi/Smart-Visual-QC)
+
+### 📈 Time Series & Forecasting
+[![LSTM ARIMA Demand](https://img.shields.io/badge/LSTM%2BARIMA-Demand%20Forecasting-teal?style=flat-square&logo=python)](https://github.com/adipradi/demand-predict-lstm-arima-time-series)
+[![Prophet XGBoost](https://img.shields.io/badge/Prophet%2BXGBoost-Hybrid%20Model-darkgreen?style=flat-square&logo=python)](https://github.com/adipradi/Sales-forcesting-hybrid-Prophet-plus-XGBoost)
+[![ARIMA Sales](https://img.shields.io/badge/ARIMA-Sales%20Forecasting-blue?style=flat-square&logo=python)](https://github.com/adipradi/sales-forcesting-arima)
+[![Sales Forecasting](https://img.shields.io/badge/Advanced-Sales%20Forecasting-gold?style=flat-square&logo=python)](https://github.com/adipradi/sales-forecasting)
+
+### 💼 Business Analytics & ML
+[![Customer Churn](https://img.shields.io/badge/Churn-Prediction%20Model-red?style=flat-square&logo=scikit-learn)](https://github.com/adipradi/Churn-Predict)
+[![Customer Segmentation](https://img.shields.io/badge/Customer-Segmentation-indigo?style=flat-square&logo=python)](https://github.com/adipradi/segmentasi-customers)
+[![Bank Transactions](https://img.shields.io/badge/Bank-Transaction%20Analysis-darkblue?style=flat-square&logo=pandas)](https://github.com/adipradi/Bank-Transactions)
+
+### 🎯 Project Highlights
+
+**🧠 Brain Tumor Classification** → *95% accuracy using EfficientNetB3 with data augmentation*  
+**🤖 AI Sales Chatbot** → *RAG-based system with real-time SQL querying*  
+**📊 Smart Visual QC** → *Automated quality control using computer vision*  
+**📈 Hybrid Forecasting** → *Prophet + XGBoost achieving 15% better accuracy*  
+**🎭 Face Mask Detection** → *Real-time detection with 98% accuracy*  
+**🌿 Plant Classification** → *Multi-class CNN model for agricultural applications*
 
 ---
 
-## 🚀 Flagship Projects  
+## 🛠️ Tech Stack
 
-- 🧠 **[Brain Tumor Classification (CNN & EfficientNet)](#)**  
-   End-to-end ML pipeline for MRI classification using CNN + transfer learning.  
+<details>
+<summary>💻 <b>Languages & Core</b></summary>
+<br>
 
-- 🤖 **[AI Chatbot for Sales Analysis (RAG-based)](#)**  
-   SQL chatbot with LangChain + FAISS for real-time analytics.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-- 📊 **[SQL Interactive Dashboard (Streamlit)](#)**  
-   NL → SQL chatbot + automated Plotly visualizations.  
+</details>
 
-- 📈 **[Digital Ads Dashboard (Oracle DB)](#)**  
-   Customer transaction analytics for marketing strategy & ad optimization.  
+<details>
+<summary>🧠 <b>AI / Machine Learning</b></summary>
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+
+</details>
+
+<details>
+<summary>🚀 <b>Frameworks & Development</b></summary>
+<br>
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</details>
+
+<details>
+<summary>📊 <b>Data & Visualization</b></summary>
+<br>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-1EB4D4?style=for-the-badge&logo=apache&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+</details>
+
+<details>
+<summary>🗄️ <b>Databases</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</details>
 
 ---
 
-## 🏆 Achievements & Certifications  
-- ✅ Built multiple CNN models with **EfficientNetB0–B3**  
-- ✅ Implemented **RAG chatbot** using LangChain + OpenAI embeddings  
-- ✅ Migrated queries from **Metabase → Apache Superset**  
-- ✅ Developed a **Streamlit SQL chatbot** with chart auto-generation  
-- 🎓 [Optional: Insert certifications (e.g., TensorFlow Developer, Data Analytics, SQL Expert, etc.)]  
+## 📈 GitHub Analytics
+
+<div align="center">
+
+![Adip's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adipradi&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adipradi&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adipradi&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
+
+<div align="center">
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adipradi&theme=radical&hide_border=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=adipradi&theme=radical&no-frame=true&margin-w=15&column=4)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 🏆 Recent Achievements & Milestones
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adipradi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adipradi&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adipradi&theme=radical)  
-![Trophy](https://github-profile-trophy.vercel.app/?username=adipradi&theme=radical&no-frame=true&margin-w=15)  
+🎯 **2024 Highlights:**
+- ✨ Built **RAG chatbot** processing 10K+ queries with 92% accuracy
+- 🧠 Deployed **CNN model** achieving 95% accuracy on medical imaging
+- 📊 Migrated enterprise dashboards from **Metabase → Apache Superset**
+- 🚀 Created **NL-to-SQL** system reducing query time by 80%
+- 🔄 Implemented **CI/CD pipelines** for ML model deployment
+- 📓 **100+ Jupyter notebooks** covering diverse ML/AI domains
+- 🎭 **Face mask detection** achieving 98% real-time accuracy
+- 🌿 **Agricultural AI** for plant disease classification
+- 📈 **Hybrid forecasting models** beating traditional methods by 15%
 
----
-
-## 🌍 Community & Contributions  
-- 🔗 Contributed to **open-source dashboard projects**  
-- 📊 Active in **data analytics & ML communities**  
-- ✨ Always open to **collaboration & learning together**  
-
----
-
-## 🎯 Fun Facts & Interests  
-- ☕ Coffee addict while coding ☕  
-- 🎮 Gamer & tech explorer  
-- 📚 Lifelong learner (currently diving into **GenAI & Cloud**)  
-- 🛠 Love building tools that solve **real business problems**  
+**📚 Continuous Learning:**
+- 🆕 Completing: Advanced LangChain & Vector DB optimization
+- 📖 Reading: "Designing Machine Learning Systems" by Chip Huyen
+- 🎓 Pursuing: AWS Machine Learning Specialty certification
 
 ---
 
-## 🌐 Connect with Me  
+## 💻 Current Focus Areas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adipradi)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adipradi)   
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dongrmin)  
+```python
+current_projects = {
+    "🔥 Hot": [
+        "Multi-modal RAG system with vision capabilities",
+        "Real-time ML pipeline with MLflow + Apache Airflow",
+        "Streamlit app for automated EDA and model training",
+        "Smart Visual QC system for manufacturing"
+    ],
+    "🌱 Learning": [
+        "Advanced prompt engineering techniques",
+        "LLM fine-tuning with LoRA/QLoRA",
+        "Vector database optimization (Pinecone, Weaviate)",
+        "Edge AI deployment with TensorFlow Lite"
+    ],
+    "🤝 Open to Collaborate": [
+        "Open-source ML tools and libraries",
+        "Data science education content",
+        "AI-powered business intelligence solutions",
+        "Computer vision applications"
+    ],
+    "📊 Recent Notebooks": [
+        "Time series forecasting with Prophet + XGBoost",
+        "Customer segmentation using advanced clustering",
+        "Deep learning for medical image analysis",
+        "Real-time object detection and tracking"
+    ]
+}
+```
 
 ---
 
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=adipradi&color=blue&style=flat-square&label=Profile+Views" />  
-</p>  
+## 🌐 Connect & Collaborate
 
-✨ _“Code is not just syntax — it’s about solving problems, learning, and making impact.”_ ✨
-"# adipradi" 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adipradi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adipradi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dongrmin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adiptriya@gmail.com)
+
+**💬 Always happy to discuss:** AI/ML projects, data science challenges, Jupyter notebooks, or just tech in general!
+
+</div>
+
+---
+
+## 💝 Support My Work
+
+If you find my projects helpful, consider:
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adipradi)
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/adipradi)
+
+⭐ **Star my repositories** if they help you!  
+📓 **Fork my notebooks** for your own experiments!
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=adipradi&color=blueviolet&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/adipradi?style=for-the-badge&color=blue&labelColor=black)
+
+</div>
+
+<div align="center">
+
+### ✨ *"Code is poetry written in logic, data is the story waiting to be told."* ✨
+
+**🚀 Let's build something amazing together!**
+
+</div>
