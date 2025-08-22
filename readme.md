@@ -39,33 +39,33 @@ I love transforming **raw data → insights → smart applications**.
 
 <div align="center">
 
-[![Brain Tumor Classification](https://github-readme-stats.vercel.app/api/pin/?username=adipradi&repo=Brain-Tumor-Classification-with-CNN&theme=radical&hide_border=true)](https://github.com/adipradi/Brain-Tumor-Classification-with-CNN)
-[![Sales Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=adipradi&repo=chatoracle&theme=radical&hide_border=true)](https://github.com/adipradi/chatoracle)
+[![Brain Tumor Classification](https://github-readme-stats.vercel.app/api/pin/?username=adiprd&repo=Brain-Tumor-Classification-with-CNN&theme=radical&hide_border=true)](https://github.com/adiprd/Brain-Tumor-Classification-with-CNN)
+[![Sales Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=adiprd&repo=chatoracle&theme=radical&hide_border=true)](https://github.com/adiprd/chatoracle)
 
-[![Smart Visual QC](https://github-readme-stats.vercel.app/api/pin/?username=adipradi&repo=Smart-Visual-QC&theme=radical&hide_border=true)](https://github.com/adipradi/Smart-Visual-QC)
-[![Image Processing](https://github-readme-stats.vercel.app/api/pin/?username=adipradi&repo=Image-Processing&theme=radical&hide_border=true)](https://github.com/adipradi/Image-Processing)
+[![Smart Visual QC](https://github-readme-stats.vercel.app/api/pin/?username=adiprd&repo=Smart-Visual-QC&theme=radical&hide_border=true)](https://github.com/adiprd/Smart-Visual-QC)
+[![Image Processing](https://github-readme-stats.vercel.app/api/pin/?username=adiprd&repo=Image-Processing&theme=radical&hide_border=true)](https://github.com/adiprd/Image-Processing)
 
 </div>
 
 ## 📊 Data Science & ML Portfolio
 
 ### 🧠 Computer Vision & Image Processing
-[![Face Mask Detection](https://img.shields.io/badge/Face%20Mask%20Detection-CNN-blue?style=flat-square&logo=tensorflow)](https://github.com/adipradi/Face-Mask-Detection) 
-[![Plant Classification](https://img.shields.io/badge/Plant%20Classification-Deep%20Learning-green?style=flat-square&logo=keras)](https://github.com/adipradi/klasifikasi-tanaman)
-[![Shape Detection](https://img.shields.io/badge/Shape%20Detection-OpenCV-red?style=flat-square&logo=opencv)](https://github.com/adipradi/Shape-Detection)
-[![Image Processing](https://img.shields.io/badge/Image%20Processing-Computer%20Vision-purple?style=flat-square&logo=python)](https://github.com/adipradi/Image-Processing)
-[![Smart Visual QC](https://img.shields.io/badge/Smart%20Visual%20QC-Quality%20Control-orange?style=flat-square&logo=tensorflow)](https://github.com/adipradi/Smart-Visual-QC)
+[![Face Mask Detection](https://img.shields.io/badge/Face%20Mask%20Detection-CNN-blue?style=flat-square&logo=tensorflow)](https://github.com/adiprd/Face-Mask-Detection) 
+[![Plant Classification](https://img.shields.io/badge/Plant%20Classification-Deep%20Learning-green?style=flat-square&logo=keras)](https://github.com/adiprd/klasifikasi-tanaman)
+[![Shape Detection](https://img.shields.io/badge/Shape%20Detection-OpenCV-red?style=flat-square&logo=opencv)](https://github.com/adiprd/Shape-Detection)
+[![Image Processing](https://img.shields.io/badge/Image%20Processing-Computer%20Vision-purple?style=flat-square&logo=python)](https://github.com/adiprd/Image-Processing)
+[![Smart Visual QC](https://img.shields.io/badge/Smart%20Visual%20QC-Quality%20Control-orange?style=flat-square&logo=tensorflow)](https://github.com/adiprd/Smart-Visual-QC)
 
 ### 📈 Time Series & Forecasting
-[![LSTM ARIMA Demand](https://img.shields.io/badge/LSTM%2BARIMA-Demand%20Forecasting-teal?style=flat-square&logo=python)](https://github.com/adipradi/demand-predict-lstm-arima-time-series)
-[![Prophet XGBoost](https://img.shields.io/badge/Prophet%2BXGBoost-Hybrid%20Model-darkgreen?style=flat-square&logo=python)](https://github.com/adipradi/Sales-forcesting-hybrid-Prophet-plus-XGBoost)
-[![ARIMA Sales](https://img.shields.io/badge/ARIMA-Sales%20Forecasting-blue?style=flat-square&logo=python)](https://github.com/adipradi/sales-forcesting-arima)
-[![Sales Forecasting](https://img.shields.io/badge/Advanced-Sales%20Forecasting-gold?style=flat-square&logo=python)](https://github.com/adipradi/sales-forecasting)
+[![LSTM ARIMA Demand](https://img.shields.io/badge/LSTM%2BARIMA-Demand%20Forecasting-teal?style=flat-square&logo=python)](https://github.com/adiprd/demand-predict-lstm-arima-time-series)
+[![Prophet XGBoost](https://img.shields.io/badge/Prophet%2BXGBoost-Hybrid%20Model-darkgreen?style=flat-square&logo=python)](https://github.com/adiprd/Sales-forcesting-hybrid-Prophet-plus-XGBoost)
+[![ARIMA Sales](https://img.shields.io/badge/ARIMA-Sales%20Forecasting-blue?style=flat-square&logo=python)](https://github.com/adiprd/sales-forcesting-arima)
+[![Sales Forecasting](https://img.shields.io/badge/Advanced-Sales%20Forecasting-gold?style=flat-square&logo=python)](https://github.com/adiprd/sales-forecasting)
 
 ### 💼 Business Analytics & ML
-[![Customer Churn](https://img.shields.io/badge/Churn-Prediction%20Model-red?style=flat-square&logo=scikit-learn)](https://github.com/adipradi/Churn-Predict)
-[![Customer Segmentation](https://img.shields.io/badge/Customer-Segmentation-indigo?style=flat-square&logo=python)](https://github.com/adipradi/segmentasi-customers)
-[![Bank Transactions](https://img.shields.io/badge/Bank-Transaction%20Analysis-darkblue?style=flat-square&logo=pandas)](https://github.com/adipradi/Bank-Transactions)
+[![Customer Churn](https://img.shields.io/badge/Churn-Prediction%20Model-red?style=flat-square&logo=scikit-learn)](https://github.com/adiprd/Churn-Predict)
+[![Customer Segmentation](https://img.shields.io/badge/Customer-Segmentation-indigo?style=flat-square&logo=python)](https://github.com/adiprd/segmentasi-customers)
+[![Bank Transactions](https://img.shields.io/badge/Bank-Transaction%20Analysis-darkblue?style=flat-square&logo=pandas)](https://github.com/adiprd/Bank-Transactions)
 
 ### 🎯 Project Highlights
 
@@ -150,21 +150,21 @@ I love transforming **raw data → insights → smart applications**.
 
 <div align="center">
 
-![Adip's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adipradi&theme=react-dark&hide_border=true&area=true)
+![Adip's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adiprd&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adipradi&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adipradi&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adiprd&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adiprd&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
 
 <div align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adipradi&theme=radical&hide_border=true)
-![Trophy](https://github-profile-trophy.vercel.app/?username=adipradi&theme=radical&no-frame=true&margin-w=15&column=4)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adiprd&theme=radical&hide_border=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=adiprd&theme=radical&no-frame=true&margin-w=15&column=4)
 
 </div>
 
@@ -227,8 +227,8 @@ current_projects = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adipradi)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adipradi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adiprd)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adiprd)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dongrmin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adiptriya@gmail.com)
@@ -245,8 +245,8 @@ If you find my projects helpful, consider:
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adipradi)
-[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/adipradi)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adiprd)
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/adiprd)
 
 ⭐ **Star my repositories** if they help you!  
 📓 **Fork my notebooks** for your own experiments!
@@ -257,8 +257,8 @@ If you find my projects helpful, consider:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=adipradi&color=blueviolet&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/adipradi?style=for-the-badge&color=blue&labelColor=black)
+![Profile Views](https://komarev.com/ghpvc/?username=adiprd&color=blueviolet&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/adiprd?style=for-the-badge&color=blue&labelColor=black)
 
 </div>
 
