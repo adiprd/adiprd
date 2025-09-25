@@ -239,22 +239,6 @@ current_projects = {
 
 ---
 
-## 💝 Support My Work
-
-If you find my projects helpful, consider:
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adiprd)
-[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/adiprd)
-
-⭐ **Star my repositories** if they help you!  
-📓 **Fork my notebooks** for your own experiments!
-
-</div>
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adiprd&color=blueviolet&style=for-the-badge&label=Profile+Views)
