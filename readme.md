@@ -24,7 +24,7 @@ I love transforming **raw data → insights → smart applications**.
 
 ## 👨‍💻 About Me
 
-- 🔭 **Currently working on:** AI-powered dashboards & RAG chatbots
+- 🔭 **Currently working on:** AI-powered dashboards, Computer Vision & RAG chatbots
 - 🌱 **Currently learning:** LangChain, Generative AI, Cloud Deployment (Docker, AWS)
 - 🎯 **This month I'm diving into:** Advanced prompt engineering & vector databases
 - 👯 **Looking to collaborate on:** AI/ML, Data Engineering, Fullstack projects
