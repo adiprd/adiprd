@@ -5,7 +5,7 @@
   <img src="https://i.ibb.co/vjR2Nmb/banner-github.gif" alt="Adip Banner" width="100%"/>
 </div>
 
-### 🚀 AI & Data Science Developer | Transforming Data into Intelligence
+### AI & Data Science Developer | Transforming Data into Intelligence
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 </div>
 
-Passionate about **AI, Data Analytics, and Data Science** ✨  
+Passionate about **AI, Data Analytics, and Data Science**   
 I love transforming **raw data → insights → smart applications**.
 
 ---
@@ -30,7 +30,7 @@ I love transforming **raw data → insights → smart applications**.
 - 👯 **Looking to collaborate on:** AI/ML, Data Engineering, Fullstack projects
 - 💬 **Ask me about:** Python, SQL, Data Visualization, Machine Learning
 - 📫 **Reach me:** adiptriya@gmail.com
-- ⚡ **Fun fact:** I can spend hours debugging just to see one line of code run perfectly 😅
+- ⚡ **Fun fact:** I can spend hours debugging just to see one line of code run perfectly 
 - 📓 **Portfolio:** 100+ Jupyter notebooks covering ML, Computer Vision, Time Series & more!
 
 ---
