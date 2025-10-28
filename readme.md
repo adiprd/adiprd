@@ -17,7 +17,7 @@
 
 </div>
 
-Passionate about **AI, Data Analytics, and Data Science**   
+Passionate about **AI, Data Engineer, Data Analytics, and Data Science**   
 I love transforming **raw data → insights → smart applications**.
 
 ---
