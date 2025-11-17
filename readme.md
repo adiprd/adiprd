@@ -1,4 +1,4 @@
-# Hi 👋, I'm Adip
+# Hi, I'm Adip
 
 <!-- BANNER / HERO IMAGE -->
 <div align="center">
@@ -17,25 +17,25 @@
 
 </div>
 
-Passionate about **AI, Data Engineer, Data Analytics, and Data Science**   
+Passionate about **AI, Data Engineer, Data Analytics, and Data Science**  
 I love transforming **raw data → insights → smart applications**.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔭 **Currently working on:** AI-powered dashboards, Computer Vision & RAG chatbots
-- 🌱 **Currently learning:** LangChain, Generative AI, Cloud Deployment (Docker, AWS)
-- 🎯 **This month I'm diving into:** Advanced prompt engineering & vector databases
-- 👯 **Looking to collaborate on:** AI/ML, Data Engineering, Fullstack projects
-- 💬 **Ask me about:** Python, SQL, Data Visualization, Machine Learning
-- 📫 **Reach me:** adiptriya@gmail.com
-- ⚡ **Fun fact:** I can spend hours debugging just to see one line of code run perfectly 
-- 📓 **Portfolio:** 100+ Jupyter notebooks covering ML, Computer Vision, Time Series & more!
+- **Currently working on:** AI-powered dashboards, Computer Vision & RAG chatbots
+- **Currently learning:** LangChain, Generative AI, Cloud Deployment (Docker, AWS)
+- **This month I'm diving into:** Advanced prompt engineering & vector databases
+- **Looking to collaborate on:** AI/ML, Data Engineering, Fullstack projects
+- **Ask me about:** Python, SQL, Data Visualization, Machine Learning
+- **Reach me:** adiptriya@gmail.com
+- **Fun fact:** I can spend hours debugging just to see one line of code run perfectly
+- **Portfolio:** 100+ Jupyter notebooks covering ML, Computer Vision, Time Series & more!
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -47,41 +47,41 @@ I love transforming **raw data → insights → smart applications**.
 
 </div>
 
-## 📊 Data Science & ML Portfolio
+## Data Science & ML Portfolio
 
-### 🧠 Computer Vision & Image Processing
+### Computer Vision & Image Processing
 [![Face Mask Detection](https://img.shields.io/badge/Face%20Mask%20Detection-CNN-blue?style=flat-square&logo=tensorflow)](https://github.com/adiprd/Face-Mask-Detection) 
 [![Plant Classification](https://img.shields.io/badge/Plant%20Classification-Deep%20Learning-green?style=flat-square&logo=keras)](https://github.com/adiprd/klasifikasi-tanaman)
 [![Shape Detection](https://img.shields.io/badge/Shape%20Detection-OpenCV-red?style=flat-square&logo=opencv)](https://github.com/adiprd/Shape-Detection)
 [![Image Processing](https://img.shields.io/badge/Image%20Processing-Computer%20Vision-purple?style=flat-square&logo=python)](https://github.com/adiprd/Image-Processing)
 [![Smart Visual QC](https://img.shields.io/badge/Smart%20Visual%20QC-Quality%20Control-orange?style=flat-square&logo=tensorflow)](https://github.com/adiprd/Smart-Visual-QC)
 
-### 📈 Time Series & Forecasting
+### Time Series & Forecasting
 [![LSTM ARIMA Demand](https://img.shields.io/badge/LSTM%2BARIMA-Demand%20Forecasting-teal?style=flat-square&logo=python)](https://github.com/adiprd/demand-predict-lstm-arima-time-series)
 [![Prophet XGBoost](https://img.shields.io/badge/Prophet%2BXGBoost-Hybrid%20Model-darkgreen?style=flat-square&logo=python)](https://github.com/adiprd/Sales-forcesting-hybrid-Prophet-plus-XGBoost)
 [![ARIMA Sales](https://img.shields.io/badge/ARIMA-Sales%20Forecasting-blue?style=flat-square&logo=python)](https://github.com/adiprd/sales-forcesting-arima)
 [![Sales Forecasting](https://img.shields.io/badge/Advanced-Sales%20Forecasting-gold?style=flat-square&logo=python)](https://github.com/adiprd/sales-forecasting)
 
-### 💼 Business Analytics & ML
+### Business Analytics & ML
 [![Customer Churn](https://img.shields.io/badge/Churn-Prediction%20Model-red?style=flat-square&logo=scikit-learn)](https://github.com/adiprd/Churn-Predict)
 [![Customer Segmentation](https://img.shields.io/badge/Customer-Segmentation-indigo?style=flat-square&logo=python)](https://github.com/adiprd/segmentasi-customers)
 [![Bank Transactions](https://img.shields.io/badge/Bank-Transaction%20Analysis-darkblue?style=flat-square&logo=pandas)](https://github.com/adiprd/Bank-Transactions)
 
-### 🎯 Project Highlights
+### Project Highlights
 
-**🧠 Brain Tumor Classification** → *95% accuracy using EfficientNetB3 with data augmentation*  
-**🤖 AI Sales Chatbot** → *RAG-based system with real-time SQL querying*  
-**📊 Smart Visual QC** → *Automated quality control using computer vision*  
-**📈 Hybrid Forecasting** → *Prophet + XGBoost achieving 15% better accuracy*  
-**🎭 Face Mask Detection** → *Real-time detection with 98% accuracy*  
-**🌿 Plant Classification** → *Multi-class CNN model for agricultural applications*
+**Brain Tumor Classification** → 95% accuracy using EfficientNetB3 with data augmentation  
+**AI Sales Chatbot** → RAG-based system with real-time SQL querying  
+**Smart Visual QC** → Automated quality control using computer vision  
+**Hybrid Forecasting** → Prophet + XGBoost achieving 15% better accuracy  
+**Face Mask Detection** → Real-time detection with 98% accuracy  
+**Plant Classification** → Multi-class CNN model for agricultural applications
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <details>
-<summary>💻 <b>Languages & Core</b></summary>
+<summary>Languages & Core</summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -93,7 +93,7 @@ I love transforming **raw data → insights → smart applications**.
 </details>
 
 <details>
-<summary>🧠 <b>AI / Machine Learning</b></summary>
+<summary>AI / Machine Learning</summary>
 <br>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -103,12 +103,12 @@ I love transforming **raw data → insights → smart applications**.
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge)
 
 </details>
 
 <details>
-<summary>🚀 <b>Frameworks & Development</b></summary>
+<summary>Frameworks & Development</summary>
 <br>
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -119,7 +119,7 @@ I love transforming **raw data → insights → smart applications**.
 </details>
 
 <details>
-<summary>📊 <b>Data & Visualization</b></summary>
+<summary>Data & Visualization</summary>
 <br>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -133,7 +133,7 @@ I love transforming **raw data → insights → smart applications**.
 </details>
 
 <details>
-<summary>🗄️ <b>Databases</b></summary>
+<summary>Databases</summary>
 <br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -146,7 +146,7 @@ I love transforming **raw data → insights → smart applications**.
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -170,49 +170,49 @@ I love transforming **raw data → insights → smart applications**.
 
 ---
 
-## 🏆 Recent Achievements & Milestones
+## Recent Achievements & Milestones
 
-🎯 **2024 Highlights:**
-- ✨ Built **RAG chatbot** processing 10K+ queries with 92% accuracy
-- 🧠 Deployed **CNN model** achieving 95% accuracy on medical imaging
-- 📊 Migrated enterprise dashboards from **Metabase → Apache Superset**
-- 🚀 Created **NL-to-SQL** system reducing query time by 80%
-- 🔄 Implemented **CI/CD pipelines** for ML model deployment
-- 📓 **100+ Jupyter notebooks** covering diverse ML/AI domains
-- 🎭 **Face mask detection** achieving 98% real-time accuracy
-- 🌿 **Agricultural AI** for plant disease classification
-- 📈 **Hybrid forecasting models** beating traditional methods by 15%
+**2024 Highlights:**
+- Built RAG chatbot processing 10K+ queries with 92% accuracy
+- Deployed CNN model achieving 95% accuracy on medical imaging
+- Migrated enterprise dashboards from Metabase to Apache Superset
+- Created NL-to-SQL system reducing query time by 80%
+- Implemented CI/CD pipelines for ML model deployment
+- 100+ Jupyter notebooks covering diverse ML/AI domains
+- Face mask detection achieving 98% real-time accuracy
+- Agricultural AI for plant disease classification
+- Hybrid forecasting models beating traditional methods by 15%
 
-**📚 Continuous Learning:**
-- 🆕 Completing: Advanced LangChain & Vector DB optimization
-- 📖 Reading: "Designing Machine Learning Systems" by Chip Huyen
-- 🎓 Pursuing: AWS Machine Learning Specialty certification
+**Continuous Learning:**
+- Completing: Advanced LangChain & Vector DB optimization
+- Reading: "Designing Machine Learning Systems" by Chip Huyen
+- Pursuing: AWS Machine Learning Specialty certification
 
 ---
 
-## 💻 Current Focus Areas
+## Current Focus Areas
 
 ```python
 current_projects = {
-    "🔥 Hot": [
+    "Hot": [
         "Multi-modal RAG system with vision capabilities",
         "Real-time ML pipeline with MLflow + Apache Airflow",
         "Streamlit app for automated EDA and model training",
         "Smart Visual QC system for manufacturing"
     ],
-    "🌱 Learning": [
+    "Learning": [
         "Advanced prompt engineering techniques",
         "LLM fine-tuning with LoRA/QLoRA",
         "Vector database optimization (Pinecone, Weaviate)",
         "Edge AI deployment with TensorFlow Lite"
     ],
-    "🤝 Open to Collaborate": [
+    "Open to Collaborate": [
         "Open-source ML tools and libraries",
         "Data science education content",
         "AI-powered business intelligence solutions",
         "Computer vision applications"
     ],
-    "📊 Recent Notebooks": [
+    "Recent Notebooks": [
         "Time series forecasting with Prophet + XGBoost",
         "Customer segmentation using advanced clustering",
         "Deep learning for medical image analysis",
@@ -223,7 +223,7 @@ current_projects = {
 
 ---
 
-## 🌐 Connect & Collaborate
+## Connect & Collaborate
 
 <div align="center">
 
@@ -233,7 +233,7 @@ current_projects = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adiptriya@gmail.com)
 
-**💬 Always happy to discuss:** AI/ML projects, data science challenges, Jupyter notebooks, or just tech in general!
+**Always happy to discuss:** AI/ML projects, data science challenges, Jupyter notebooks, or just tech in general!
 
 </div>
 
@@ -248,8 +248,8 @@ current_projects = {
 
 <div align="center">
 
-### ✨ *"Code is poetry written in logic, data is the story waiting to be told."* ✨
+### "Code is poetry written in logic, data is the story waiting to be told."
 
-**🚀 Let's build something amazing together!**
+**Let's build something amazing together!**
 
 </div>
